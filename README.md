@@ -1,4 +1,4 @@
-Hii - Im Aria. Im a 16 year old solo developer that mostly works with C++, but i like to experiment with a bunch of different languages and frameworks.
+Hii - Im Aria. Im a 17 year old solo developer that mostly works with C++, but i like to experiment with a bunch of different languages and frameworks.
 I really like making small contributions to development communities like IDE's specified for a language, Libraries, etc.
 
 Im also Transgender and proud🩷🏳️‍⚧️
