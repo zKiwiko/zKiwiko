@@ -1,4 +1,4 @@
-<p align="center">Hii - Im Aria. Im a 17 year old solo developer that loves to contribute small things for small communities. <br>Rather it be VS Code extensions, Package managers, i try to make the best possible applications for people to use.<br><br><br>Im also Transgender and proud🩷🏳️‍⚧️</p>
+<p align="center">Hii - Im Aria. Im a 17 year old programmer that usually makes neat random things. Whatever i feel like, honestly<br><br><br>Im also Transgender and proud🩷🏳️‍⚧️</p>
 
 ###
 
