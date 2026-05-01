@@ -1,4 +1,4 @@
-<p align="center">Hii - Im Aria. Im a 17 year old programmer that usually makes neat random things. Whatever i feel like, honestly<br><br><br>Im also Transgender and proud🩷🏳️‍⚧️</p>
+<p align="center">Hii - Im Aria. Im a 18 year old programmer that usually makes neat random things. Whatever i feel like, honestly<br><br><br>Im also Transgender and proud🩷🏳️‍⚧️</p>
 
 ###
 
